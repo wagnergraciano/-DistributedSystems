@@ -1,2 +1,2 @@
 # -DistributedSystems
-Created to studie and documentate this college discipline
+Created to study and documentate this college discipline
